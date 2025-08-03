@@ -57,9 +57,32 @@ This project explores historical trends in global food production using data fro
 
 
 #### Tools
- - Python - Data Cleaning & Exploratory Data Analysis can be downloaded [here](https://github.com/AlfredBoatengDA/World-Food-Production---Agriculture/blob/main/Data%20Cleaning%20-%20WFP.ipynb)
+ - Python - Data Cleaning & Exploratory Data Analysis can be viewed [here](https://github.com/AlfredBoatengDA/World-Food-Production---Agriculture/blob/main/Data%20Cleaning%20-%20WFP.ipynb)
  - SQL Server - Perform analysis,  utilized to inspect, perform quality checks
-                and also target various business questions [here](https://github.com/AlfredBoatengDA/Agriculture-Projects/blob/main/SQL%20Analysis%20and%20Queries.sql)
- - Power BI - Creating reports & interacting with visuals can be downloaded  [here](https://github.com/AlfredBoatengDA/Agriculture-Projects/blob/main/Crop%20Yield%20Analysis%20Power%20BI%20Dashboard.pbix)
+                and also target various business questions can be viewed [here](https://github.com/AlfredBoatengDA/Agriculture-Projects/blob/main/SQL%20Analysis%20and%20Queries.sql)
+ - Power BI - Creating reports & interacting with visuals can be viewed  [here](https://github.com/AlfredBoatengDA/Agriculture-Projects/blob/main/Crop%20Yield%20Analysis%20Power%20BI%20Dashboard.pbix)
+
+
+
+
+# Executive Summary
+This global food production analysis highlights transformative growth patterns and production dynamics across regions and crops from 1960 to 2021. It reveals significant agricultural expansion post-1990, driven by technological advancements, global demand, and regional development policies. The findings offer insight into regional contributions, production stability, and key crops underpinning global food security.
+
+
+###  Overview of Findings 
+
+* Global food production more than doubled from 1990 to 2021 after a volatile and low-production period in the 1980s. Food production more than doubled between 1990 and 2021 after a 
+  volatile and low-production period in the 1980s, hvaing the lowest drop in 1983. This turning point reflects expanded trade, mechanization, and increased food demand due to population 
+  growth.
+* Sugarcane dominates globally, making up 33% of total output. Its tropical adaptability and utility in biofuels make it indispensable across all continent followed by Wheat and Rice.
+*  
+
+
+
+
+
+
+
+
 
 
