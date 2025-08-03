@@ -57,7 +57,7 @@ This project explores historical trends in global food production using data fro
 
 
 #### Tools
- - Python - Data Cleaning & Exploratory Data Analysis can be downloaded [here](https://github.com/AlfredBoatengDA/Agriculture-Projects/blob/main/Data%20Cleaning.ipynb)
+ - Python - Data Cleaning & Exploratory Data Analysis can be downloaded [here](https://github.com/AlfredBoatengDA/World-Food-Production---Agriculture/blob/main/Data%20Cleaning%20-%20WFP.ipynb)
  - SQL Server - Perform analysis,  utilized to inspect, perform quality checks
                 and also target various business questions [here](https://github.com/AlfredBoatengDA/Agriculture-Projects/blob/main/SQL%20Analysis%20and%20Queries.sql)
  - Power BI - Creating reports & interacting with visuals can be downloaded  [here](https://github.com/AlfredBoatengDA/Agriculture-Projects/blob/main/Crop%20Yield%20Analysis%20Power%20BI%20Dashboard.pbix)
