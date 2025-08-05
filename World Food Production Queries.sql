@@ -53,44 +53,25 @@ ORDER BY Year;
 
 
 
--- Which countries are the top contributors to global food production?
--- Identify leading countries in terms of total production volume, and compare their performance.
+-- Which countries and continent are the top contributors to global food production?
+-- Identify leading countries and continent in terms of total production volume, and compare their performance.
 SELECT TOP 15 Country, SUM(Data_values) AS Total_Production
 FROM [World Food ]
 GROUP BY Country
 ORDER BY Total_Production DESC;
 
 
+SELECT Continent, SUM(Data_values) AS Total_Production
+FROM [World Food ]
+GROUP BY Continent
+ORDER BY Total_Production DESC;
 
 
--- What are the top-produced crops globally and by country?
--- Determine which crops dominate production overall and within each continent or region
-
-SELECT Crops, SUM(Data_values) AS Total_Production
-FROM [World Food]
-GROUP BY Crops
-ORDER BY Total_Production DESC
-
-
-WITH CountryCrop AS (
-				SELECT Country,
-				Crops, 
-				SUM(Data_values) AS Total_Production,
-				ROW_NUMBER() OVER (PARTITION BY Country ORDER BY SUM(Data_values) DESC) AS Rank
-FROM [World Food]
-GROUP BY Country, Crops
-)
-SELECT Country, 
-	   Crops,
-	   Total_Production
-FROM CountryCrop
-WHERE Rank <= 5
-ORDER BY Country, Rank;
 
 
 
 -- What are the top-produced crops globally and by countries?
--- Determine which crops dominate production overall and within each continent or region
+-- Determine which crops dominate production overall and within each country or region
 
 SELECT Crops, SUM(Data_values) AS Total_Production
 FROM [World Food]
@@ -128,6 +109,7 @@ SELECT Crops,
 FROM [World Food ]
 GROUP BY Crops
 ORDER BY Production_Volatility_Percent
+
 
 
 
