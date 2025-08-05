@@ -10,9 +10,9 @@ This project explores historical trends in global food production using data fro
 ### Problem Statement
 1) How has global food production evolved over time (1960–2021)?
 2) Which countries and continents are the top contributors to global food production?
-3) What are the top-produced crops globally and by continent?
-4) Which countries and crops have shown the most production volatility or decline over the years?
-5) How does crop production vary across countries over the years, and are there emerging trends?
+3) What are the top-produced crops globally and by countries?
+4) Which continent and crops have shown the most production volatility or decline over the years?
+5) How does crop production vary across continent over the years, and are there emerging trends?
 
 
 
@@ -99,11 +99,19 @@ This global food production analysis highlights transformative growth patterns a
 
 #### 2. The Global Map of Food Production:  Regional Engines of Growth
 * As this transformation unfolded, the map of global food production evolved alongside it. Africa leads with 478 billion of production volume and contributing 30% of global output with 
-  remarkable stability and untapped potential due to its vast uncultivated arable land.  Despite infrastructural challenges, it maintains a low production volatility 0.40%. Western 
+  remarkable stability and untapped potential due to its vast uncultivated arable land. Despite infrastructural challenges, it maintains a low production volatility 0.40%. Western 
   Africa FAO, Morocco, Mozambique are leading the charge.
 * Asia produces 347 billion units, contributing 22% to global production with a volatility slightly higher than Africa at 0.46%. Leading producers include Armenia, followed by Saudi  
   Arabia, and Nepal. Asia is generally a net food-importing region despite extensive production.
+* North America provides a stable backbone to global food systems with 282 billion production volume contributing 17.8% to global output and the lowest volatility of 0.16%. Its 
+  production reflects strong infrastructure and market maturity. Its also a key exporter
+* Europe (253 billion and a global share of 16%) and South America (188 billion and a global share of 11.9%) maintain steady growth, with diverse variability and export roles. South 
+  America’s production, while smaller, is dominated by specific crops with consequential global market impact.
+* Oceania, though the smallest player at 28.3 billion (1.79%) and the most volatile 0.59%, contributes to the global portfolio with unique crop diversity balanced against its limited 
+  landmass.
 
+
+&nbsp;
 
 
 
