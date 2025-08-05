@@ -77,7 +77,7 @@ This global food production analysis highlights transformative growth patterns a
 * Peru stands out as the top-producing country in total crop volume, followed by Argentina with sugarcane accounting for an overwhelming production of its total agricultural output. 
 * Sugarcane dominates globally, making up 33% of total output. Its tropical adaptability and utility in biofuels make it indispensable across all continent followed by Wheat and Rice.
 
-
+> ![Environmental Dashboard](https://github.com/AlfredBoatengDA/Agriculture-Projects/blob/main/Environmental%20Analysis%20Image.jpeg)  
 
 
 &nbsp;
@@ -94,7 +94,8 @@ This global food production analysis highlights transformative growth patterns a
   1983, the sector rebounded sharply in the 1990s, global production entered a new era. This surge reflects the impact of technological advances, globalization of trade, and rising  
   demand from population growth. By 2021, global food production had more than doubled, reflecting rapid agricultural transformation. The post-2000 surge represents a turning point 
   fueled by policy reforms and emerging economies.
-
+  
+> ![Environmental Dashboard](https://github.com/AlfredBoatengDA/Agriculture-Projects/blob/main/Environmental%20Analysis%20Image.jpeg)  
 &nbsp;
 
 #### 2. The Global Map of Food Production:  Regional Engines of Growth
@@ -110,9 +111,29 @@ This global food production analysis highlights transformative growth patterns a
 * Oceania, though the smallest player at 28.3 billion (1.79%) and the most volatile 0.59%, contributes to the global portfolio with unique crop diversity balanced against its limited 
   landmass.
 
-
+> ![Environmental Dashboard](https://github.com/AlfredBoatengDA/Agriculture-Projects/blob/main/Environmental%20Analysis%20Image.jpeg)  
 &nbsp;
 
+#### 3. Crop Dominance: The Crops that Feed the World
+* Sugarcane reigns supreme, contributing 33% of global production and a total production volume of 520 billion tonnes. It leads production across all continents, especially dominating 
+  South America.
+* Second place goes to Wheat, contributing 15.7%, notable for its adaptability across climates and importance in both developing and developed countries. Rice, a staple for much of Asia 
+  and parts of Africa, follows closely with 12.6%. Potatoes also contributes 8.5% in global share.
+* Low-volume but high-value crops such as coffee, cocoa beans, avocados and tea remain economically critical despite their low production shares.
+* Regional crop dominance varies where rice is prevalent in Asia and Africa, wheat thrives in North America and Europe, root crops like potato and sweet potato are essential staples 
+  across many continents.
 
+> ![Environmental Dashboard](https://github.com/AlfredBoatengDA/Agriculture-Projects/blob/main/Environmental%20Analysis%20Image.jpeg)  
+
+&nbsp;
+#### 4. Leading Countries and Their Crop Profiles
+* Peru leads global production with 56.7 billion tonnes, overwhelmingly dominated by sugarcane 96.5% on national output, showing a highly monocultural system.
+* Followed by Argentina, producing 46.1 billion, also prioritizes sugarcane 56.9% but showcases more diversification with rice making up 21.5% of its national output.
+* Western Africa FAO, with 43.1 billion tonnes, balances production between rice 36.8%, wheat 23.4%, and potatoes 15.6%, highlighting a more diversified food security approach.
+* Albania’s 42.5 billion output is primarily sugarcane (81.2%) with soybean and banana as secondary crops.
+* Antigua and Barbuda, producing 36.5 billion, also features sugarcane dominance 72.5% alongside sweet potatoes and banana.
+
+* This diversity in crop dependency—ranging from monocrop dominance to balanced agricultural systems—indicates differing levels of food security, economic reliance, and resilience among 
+  nations.
 
 
