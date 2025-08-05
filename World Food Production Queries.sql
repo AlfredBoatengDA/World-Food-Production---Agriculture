@@ -34,7 +34,7 @@ FROM [world food production-cleaned]
 
 
 
--- How has global food production evolved over time (1960–2021)?
+-- How has global food production evolved over time (1960â€“2021)?
 -- Analyze trends, growth patterns, and fluctuations in overall production across decades.
 WITH CTEDecade AS (
 			     SELECT Year,
@@ -89,7 +89,7 @@ ORDER BY Country, Rank;
 
 
 
--- What are the top-produced crops globally and by continent?
+-- What are the top-produced crops globally and by countries?
 -- Determine which crops dominate production overall and within each continent or region
 
 SELECT Crops, SUM(Data_values) AS Total_Production
@@ -99,25 +99,26 @@ ORDER BY Total_Production DESC
 
 
 
-WITH ContinentCrop AS (
-				SELECT Continent,
+
+WITH CountryCrop AS (
+				SELECT Country,
 				Crops, 
 				SUM(Data_values) AS Total_Production,
-				ROW_NUMBER() OVER (PARTITION BY Continent ORDER BY SUM(Data_values) DESC) AS Rank
+				ROW_NUMBER() OVER (PARTITION BY Country ORDER BY SUM(Data_values) DESC) AS Rank
 FROM [World Food]
-GROUP BY Continent, Crops
+GROUP BY Country, Crops
 )
-SELECT Continent, 
+SELECT Country, 
 	   Crops,
 	   Total_Production
-FROM ContinentCrop
+FROM CountryCrop
 WHERE Rank <= 5
-ORDER BY Continent, Rank;
+ORDER BY CountryCrop, Rank;
 
 
 
 
--- Which countries and crops have shown the most production volatility or decline over the years?
+-- Which continent and crops have shown the most production volatility or decline over the years?
 -- Detect unstable or declining patterns that could indicate food security risks or economic shifts.
 
 SELECT Crops,
@@ -127,6 +128,7 @@ SELECT Crops,
 FROM [World Food ]
 GROUP BY Crops
 ORDER BY Production_Volatility_Percent
+
 
 
 
