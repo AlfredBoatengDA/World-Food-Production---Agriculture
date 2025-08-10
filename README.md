@@ -103,7 +103,7 @@ This global food production analysis highlights transformative growth patterns a
 )  
 &nbsp;
 
-#### 2) The Global Map of Food Production:  Regional Engines of Growth
+### 2) The Global Map of Food Production:  Regional Engines of Growth
 * As this transformation unfolded, the map of global food production evolved alongside it. Africa leads with 478 billion of production volume and contributing 30% of global output with 
   remarkable stability and untapped potential due to its vast uncultivated arable land. Despite infrastructural challenges, it maintains a low production volatility 0.40%. Western 
   Africa FAO, Morocco, Mozambique are leading the charge.
