@@ -79,7 +79,8 @@ This global food production analysis highlights transformative growth patterns a
   growth.
 * Peru stands out as the top-producing country in total crop volume, followed by Argentina with sugarcane accounting for an overwhelming production of its total agricultural output. 
 * Sugarcane dominates globally, making up 33% of total output. Its tropical adaptability and utility in biofuels make it indispensable across all continent followed by Wheat and Rice.
-
+* Africa is now the largest contributor, accounting for 30% of total global production. With stable year-on-year growth and untapped arable land reserves (65% of the world’s uncultivated farmland). Asia ranks second while North America, Europe, South America contribute steadily but face varying levels of production volatility.
+* North America has the lowest volatility (0.16%) while Oceania is the most unstable (0.59%). Regions reliant on a single crop face higher economic and climate related risks.
  
 
 
