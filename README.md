@@ -154,7 +154,8 @@ Based on the uncovered insights, the following recommendations have been provide
 
 ### Sustaining Growth and Building Resilience in Global Food Production
 -	Continue supporting research and development in agricultural technology to sustain and accelerate the growth seen since the 1990s, ensuring resilience against future shocks.
--	Develop robust monitoring and early warning systems to detect and respond to production volatility, especially in regions that experienced instability before 1990. Leverage data from high-growth periods (post-1990) to develop predictive models for future food production planning.
+-	Develop robust monitoring and early warning systems to detect and respond to production volatility, especially in regions that experienced instability before 1990. Leverage data from 
+  high-growth periods (post-1990) to develop predictive models for future food production planning.
 
 ### Unlocking Regional Potential and Enhancing Food Security
 -	Prioritize investment in Africa’s agricultural infrastructure and capacity-building to utilize its vast uncultivated arable land, potentially boosting global food security.
@@ -162,13 +163,15 @@ Based on the uncovered insights, the following recommendations have been provide
 -	Promote crop and market diversification in regions with high mono-crop dependency such as South America to reduce risk and improve resilience to market or climate shocks.
 
 ### Promoting Crop Diversity and Sustainable Agricultural Practices
--	Balance crop portfolios by encourage countries to diversify beyond dominant crops like sugarcane to include more staples and nutrient-rich crops, enhancing food security and dietary diversity.
+-	Balance crop portfolios by encourage countries to diversify beyond dominant crops like sugarcane to include more staples and nutrient-rich crops, enhancing food security and dietary 
+  diversity.
 -	Invest in sustainable farming methods for high yield crops to minimize environmental impact, especially in regions where sugarcane and other resource intensive crops dominate.
 -	Strengthen value chains and market access for minor but economically significant crops (e.g., coffee, cocoa, tea) to boost rural incomes and export earnings.
 -	Support local production and consumption of root and minor crops such as potato, sweet potato, beans to boost dietary diversity and resilience.
 
 ### Strengthening National Strategies for Resilient and Competitive Agriculture
--	Encourage top-producing countries like Peru, Albania, Antigua and Barbuda, Mozambique and Saint Lucia to diversify their agricultural output to mitigate risks associated with mono-crop dependency.
+-	Encourage top-producing countries like Peru, Albania, Antigua and Barbuda, Mozambique and Saint Lucia to diversify their agricultural output to mitigate risks associated with mono- 
+  crop dependency.
 -	Countries like Argentina and Western Africa FAO which show balanced production should serve as models for resilient and secure food systems.
 -	Policy frameworks should promote agroecological zoning to ensure that each region capitalizes on its best-suited crops for efficiency and sustainability.
 
@@ -179,5 +182,15 @@ Based on the uncovered insights, the following recommendations have been provide
 # 7. Conclusion
 Global food production has transformed significantly since the 1960s, driven by technological advances, global trade and demographic shifts. Africa has emerged as the largest food-producing continent while sugarcane dominates the global crop landscape. Although regions like North America maintain stability, areas like Oceania exhibit high production volatility. Meanwhile, some countries rely heavily on a single crop which could pose economic and food security risks in the long term. 
 By investing in innovation, promoting diversification and strengthening regional and global cooperation, the world can build a more resilient, equitable and sustainable food system. One that not only meets the demands of a growing population but also supports economic development and environmental stewardship for generations to come.
+
+
+&nbsp;
+
+
+# 8. Limitations
+* Without clear documentation of how the data was collected, accuracy is harder to validate.
+* Smaller or developing countries may have sparse or inconsistent data compared to major producers.
+* No direct variables for climate conditions, soil health or water use that could explain production changes.
+*  
 
 
