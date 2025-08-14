@@ -64,8 +64,9 @@ This project explores historical trends in global food production using data fro
 
 
 #### Data Source
-- Kaggle
-- CSV File
+* The dataset used in this project is titled "World Food Production" and is provided in CSV format. 
+* Data was sourced from FAO
+
 
 
 
