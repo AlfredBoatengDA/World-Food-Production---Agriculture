@@ -2,6 +2,18 @@
 ![](https://github.com/AlfredBoatengDA/World-Food-Production---Agriculture/blob/main/Food%20Production%20image.avif)
 
 
+## Table of Content
+
+- [Project Overview](Project-Overview)
+- [Data Structure Overview](Data-Structure-Overview)
+- [Executive Summary](Executive-Summary)
+- [Insights Deep Dive](Insights-Deep-Dive)
+- [Recommendation](Recommendations)
+- [Conclusion](Conclusion)
+- [Limitations](Limitations)
+
+
+&nbsp;
 
 
 # 1. Project Overview
@@ -17,6 +29,7 @@ This project explores historical trends in global food production using data fro
 
 
 &nbsp;
+
 
 # 2. Data Structure Overview
 | **Column Name**       | **Description**                                                 |
@@ -191,6 +204,6 @@ By investing in innovation, promoting diversification and strengthening regional
 * Without clear documentation of how the data was collected, accuracy is harder to validate.
 * Smaller or developing countries may have sparse or inconsistent data compared to major producers.
 * No direct variables for climate conditions, soil health or water use that could explain production changes.
-*  
+  
 
 
